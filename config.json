@@ -1,0 +1,9 @@
+{
+  "groupes": [
+    {
+      "id": "rois",
+      "nom": "Rois et royaumes",
+      "fichier": "rois.csv"
+    }
+  ]
+}
