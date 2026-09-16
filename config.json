@@ -4,6 +4,11 @@
       "id": "rois",
       "nom": "Rois et royaumes",
       "fichier": "rois.csv"
+    },
+    {
+      "id": "prophetes",
+      "nom": "Prophètes",
+      "fichier": "prophetes.csv"
     }
   ]
 }
