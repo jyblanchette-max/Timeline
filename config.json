@@ -9,6 +9,11 @@
       "id": "prophetes",
       "nom": "Prophètes",
       "fichier": "prophetes.csv"
+    },
+    {
+      "id": "juges",
+      "nom": "Juges et libérateurs",
+      "fichier": "juges.csv"
     }
   ]
 }
